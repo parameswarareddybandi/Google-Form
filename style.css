@@ -1,0 +1,57 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+
+.container {
+width: 70%;
+margin: 0 auto;
+}
+
+form {
+    background-color: #d6d6d6;
+    padding: 30px;
+    margin-top: 30px;
+}
+
+legend {
+    background: #000;
+    color: white;
+    border: 1px solid black;
+    border-radius: 3px;
+    padding: 10px;
+}
+
+#Personal {
+    padding: 30px 0 20px 10px;
+}
+
+h1 {
+    text-align: center;
+    margin-top: 50px;
+    color: white;
+}
+
+#college {
+    padding: 30px 0 20px 10px;
+    margin-top: 15px;
+}
+
+#sub-btn {
+    margin-top: 15px;
+    text-align: center;
+    padding: 5px 10px;
+    background: #000;
+    color: white;
+}
+
+#sub-btn:hover {
+    background: green;
+    color: black;
+    cursor: pointer;
+}
+
+body {
+    background: #001400;
+}
